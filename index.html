@@ -103,20 +103,21 @@
         <div class="container">
 
           <h2 class="h1 hero-title">
-            New Summer <strong>Shoes Collection</strong>
+            Nova <strong>coleção de sapatos!</strong>
           </h2>
 
           <p class="hero-text">
-            Competently expedite alternative benefits whereas leading-edge catalysts for change. Globally leverage
-            existing an
-            expanded array of leadership.
+            Acelere com competência benefícios alternativos enquanto catalisadores de ponta para a mudança. Alavancagem global
+            existente um
+            matriz expandida de liderança.
           </p>
 
-          <button class="btn btn-primary">
-            <span>Shop Now</span>
-
-            <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
-          </button>
+          <a href="#produtos">
+            <button class="btn btn-primary">
+              <span>Compre agora</span>
+              <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+            </button>
+          </a>
 
         </div>
       </section>
@@ -136,10 +137,10 @@
 
             <li>
               <div class="collection-card" style="background-image: url('./assets/images/collection-1.jpg')">
-                <h3 class="h4 card-title">Men Collections</h3>
+                <h3 class="h4 card-title">Coleções Masculinas</h3>
 
                 <a href="#" class="btn btn-secondary">
-                  <span>Explore All</span>
+                  <span>Explorar tudo</span>
 
                   <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
                 </a>
@@ -148,10 +149,10 @@
 
             <li>
               <div class="collection-card" style="background-image: url('./assets/images/collection-2.jpg')">
-                <h3 class="h4 card-title">Women Collections</h3>
+                <h3 class="h4 card-title">Coleções femininas</h3>
 
                 <a href="#" class="btn btn-secondary">
-                  <span>Explore All</span>
+                  <span>Explorar tudo</span>
 
                   <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
                 </a>
@@ -160,10 +161,10 @@
 
             <li>
               <div class="collection-card" style="background-image: url('./assets/images/collection-3.jpg')">
-                <h3 class="h4 card-title">Sports Collections</h3>
+                <h3 class="h4 card-title">Coleções de esportes</h3>
 
                 <a href="#" class="btn btn-secondary">
-                  <span>Explore All</span>
+                  <span>Explorar tudo</span>
 
                   <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
                 </a>
@@ -186,7 +187,7 @@
       <section id="produtos" class="section product">
         <div class="container">
 
-          <h2 class="h2 section-title">Bestsellers Products</h2>
+          <h2 class="h2 section-title">Produtos mais vendidos</h2>
 
           <ul class="filter-list">
 
@@ -222,10 +223,11 @@
               <div class="product-card" tabindex="0">
 
                 <figure class="card-banner">
-                  <img src="./assets/images/product-1.jpg" width="312" height="350" loading="lazy"
-                    alt="Running Sneaker Shoes" class="image-contain">
-
-                  <div class="card-badge">New</div>
+                  <a href="#">
+                    <img src="./assets/images/product-1.jpg" width="312" height="350" loading="lazy"
+                      alt="Running Sneaker Shoes" class="image-contain">
+                    <div class="card-badge">Novo</div>
+                  </a>
 
                   <ul class="card-action-list">
 
@@ -234,50 +236,21 @@
                         <ion-icon name="cart-outline"></ion-icon>
                       </button>
 
-                      <div class="card-action-tooltip" id="card-label-1">Add to Cart</div>
-                    </li>
-
-                    <li class="card-action-item">
-                      <button class="card-action-btn" aria-labelledby="card-label-2">
-                        <ion-icon name="heart-outline"></ion-icon>
-                      </button>
-
-                      <div class="card-action-tooltip" id="card-label-2">Add to Whishlist</div>
-                    </li>
-
-                    <li class="card-action-item">
-                      <button class="card-action-btn" aria-labelledby="card-label-3">
-                        <ion-icon name="eye-outline"></ion-icon>
-                      </button>
-
-                      <div class="card-action-tooltip" id="card-label-3">Quick View</div>
-                    </li>
-
-                    <li class="card-action-item">
-                      <button class="card-action-btn" aria-labelledby="card-label-4">
-                        <ion-icon name="repeat-outline"></ion-icon>
-                      </button>
-
-                      <div class="card-action-tooltip" id="card-label-4">Compare</div>
-                    </li>
-
                   </ul>
                 </figure>
 
-                <div class="card-content">
-
-                  <div class="card-cat">
-                    <a href="#" class="card-cat-link">Men</a> /
-                    <a href="#" class="card-cat-link">Women</a>
+                <a href="#">
+                  <div class="card-content">
+                    <div class="card-cat">
+                      <a href="#" class="card-cat-link">Men</a> /
+                      <a href="#" class="card-cat-link">Women</a>
+                    </div>
+                    <h3 class="h3 card-title">
+                      <a href="#">Running Sneaker Shoes</a>
+                    </h3>
+                    <data class="card-price" value="180.85">$180.85</data>
                   </div>
-
-                  <h3 class="h3 card-title">
-                    <a href="#">Running Sneaker Shoes</a>
-                  </h3>
-
-                  <data class="card-price" value="180.85">$180.85</data>
-
-                </div>
+                </a>
 
               </div>
             </li>
@@ -1155,94 +1128,6 @@
         </div>
       </section>
 
-
-
-
-
-      <!-- 
-        - #INSTA POST
-      -->
-
-      <section class="section insta-post">
-
-        <ul class="insta-post-list has-scrollbar">
-
-          <li class="insta-post-item">
-            <img src="./assets/images/insta-1.jpg" width="100" height="100" loading="lazy" alt="Instagram post"
-              class="insta-post-banner image-contain">
-
-            <a href="#" class="insta-post-link">
-              <ion-icon name="logo-instagram"></ion-icon>
-            </a>
-          </li>
-
-          <li class="insta-post-item">
-            <img src="./assets/images/insta-2.jpg" width="100" height="100" loading="lazy" alt="Instagram post"
-              class="insta-post-banner image-contain">
-
-            <a href="#" class="insta-post-link">
-              <ion-icon name="logo-instagram"></ion-icon>
-            </a>
-          </li>
-
-          <li class="insta-post-item">
-            <img src="./assets/images/insta-3.jpg" width="100" height="100" loading="lazy" alt="Instagram post"
-              class="insta-post-banner image-contain">
-
-            <a href="#" class="insta-post-link">
-              <ion-icon name="logo-instagram"></ion-icon>
-            </a>
-          </li>
-
-          <li class="insta-post-item">
-            <img src="./assets/images/insta-4.jpg" width="100" height="100" loading="lazy" alt="Instagram post"
-              class="insta-post-banner image-contain">
-
-            <a href="#" class="insta-post-link">
-              <ion-icon name="logo-instagram"></ion-icon>
-            </a>
-          </li>
-
-          <li class="insta-post-item">
-            <img src="./assets/images/insta-5.jpg" width="100" height="100" loading="lazy" alt="Instagram post"
-              class="insta-post-banner image-contain">
-
-            <a href="#" class="insta-post-link">
-              <ion-icon name="logo-instagram"></ion-icon>
-            </a>
-          </li>
-
-          <li class="insta-post-item">
-            <img src="./assets/images/insta-6.jpg" width="100" height="100" loading="lazy" alt="Instagram post"
-              class="insta-post-banner image-contain">
-
-            <a href="#" class="insta-post-link">
-              <ion-icon name="logo-instagram"></ion-icon>
-            </a>
-          </li>
-
-          <li class="insta-post-item">
-            <img src="./assets/images/insta-7.jpg" width="100" height="100" loading="lazy" alt="Instagram post"
-              class="insta-post-banner image-contain">
-
-            <a href="#" class="insta-post-link">
-              <ion-icon name="logo-instagram"></ion-icon>
-            </a>
-          </li>
-
-          <li class="insta-post-item">
-            <img src="./assets/images/insta-8.jpg" width="100" height="100" loading="lazy" alt="Instagram post"
-              class="insta-post-banner image-contain">
-
-            <a href="#" class="insta-post-link">
-              <ion-icon name="logo-instagram"></ion-icon>
-            </a>
-          </li>
-
-        </ul>
-
-      </section>
-
     </article>
   </main>
 
@@ -1260,10 +1145,6 @@
       <div class="container">
 
         <div class="footer-brand">
-
-          <a href="#" class="logo">
-            <img src="./assets/images/logo.svg" width="160" height="50" alt="Footcap logo">
-          </a>
 
           <ul class="social-list">
 
