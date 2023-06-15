@@ -3,7 +3,7 @@
 \*-----------------------------------*/
 
 /**
- * copyright 2022 codewithsadee
+ * copyright 2022 Kalebzaki
  */
 
 
@@ -132,9 +132,9 @@ body {
 
 ::-webkit-scrollbar-track { background: hsl(0, 0%, 95%); }
 
-::-webkit-scrollbar-thumb { background: hsl(0, 0%, 80%); }
+::-webkit-scrollbar-thumb { background: var(--bittersweet); }
 
-::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
+::-webkit-scrollbar-thumb:hover { background: var(--bittersweet); }
 
 
 
