@@ -23,14 +23,6 @@ Bem-vindo ao Readify, o melhor site de vendas online! Aqui você encontrará uma
 5. Revise seu pedido e confirme a compra.
 6. Acompanhe o status do seu pedido em sua conta.
 
-## Entre em Contato
-
-Estamos aqui para ajudar! Se você tiver alguma dúvida, problema ou sugestão, entre em contato conosco através dos seguintes meios:
-
-- Email: contato@readify.com
-- Telefone: +55 123456789
-- Chat ao vivo: Disponível no nosso site durante o horário comercial.
-
 Agradecemos por escolher o Readify como seu destino para compras online. Esperamos que você tenha uma excelente experiência de compra!
 
 *Nota: Este é um exemplo fictício de um README.md para ilustração. Os detalhes e informações podem ser adaptados para o contexto real da sua empresa ou site.*
