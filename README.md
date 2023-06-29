@@ -1,6 +1,6 @@
-# Readify - Seu destino para compras online!
+# Loja Virtual - Seu destino para compras online!
 
-Bem-vindo ao Readify, o melhor site de vendas online! Aqui você encontrará uma ampla variedade de produtos de alta qualidade, com preços competitivos e uma experiência de compra excepcional. Nossa missão é tornar suas compras online simples, convenientes e seguras.
+Bem-vindo à Loja Virtual, o melhor site de vendas online! Aqui você encontrará uma ampla variedade de produtos de alta qualidade, com preços competitivos e uma experiência de compra excepcional. Nossa missão é tornar suas compras online simples, convenientes e seguras.
 
 ## Principais Recursos
 
@@ -16,13 +16,11 @@ Bem-vindo ao Readify, o melhor site de vendas online! Aqui você encontrará uma
 
 ## Como Comprar
 
-1. Faça o login ou crie uma conta no Readify.
+1. Faça o login ou crie uma conta na Loja Virtual.
 2. Navegue pela nossa ampla seleção de produtos ou use a barra de pesquisa para encontrar itens específicos.
 3. Selecione o produto desejado e adicione ao carrinho de compras.
 4. Prossiga para o pagamento e escolha o método de pagamento preferido.
 5. Revise seu pedido e confirme a compra.
 6. Acompanhe o status do seu pedido em sua conta.
 
-Agradecemos por escolher o Readify como seu destino para compras online. Esperamos que você tenha uma excelente experiência de compra!
-
-*Nota: Este é um exemplo fictício de um README.md para ilustração. Os detalhes e informações podem ser adaptados para o contexto real da sua empresa ou site.*
+Agradecemos por escolher a Loja Virtual como seu destino para compras online. Esperamos que você tenha uma excelente experiência de compra!
