@@ -24,3 +24,7 @@ Bem-vindo à incrível Loja Virtual, o paraíso das compras online! Aqui você e
 6. Acompanhe o status do seu pedido pela sua conta, para ficar por dentro de todos os detalhes.
 
 Agradecemos por eleger a Loja Virtual como seu destino de compras online. Nossa equipe está ansiosa para proporcionar a você uma experiência de compra memorável e repleta de alegrias! 🎉🛍️
+
+---
+
+Criado por [Kaleb Zaki](mailto:seuemail@example.com) - [GitHub](https://github.com/kalebzaki4)
